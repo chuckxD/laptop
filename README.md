@@ -244,4 +244,12 @@ TODO
   * rollback option(s), dry runs, logging
   * barebone macOS mindset
 
-* check into Ninite-esque setup for 3rd party app installs
+* check into Ninite-esque setup for 3rd party app installs e.g.
+  * https://brew.sh
+  * https://alternativeto.net/software/homebrew-cask/
+  * https://macapps.link/en/
+  * http://www.getmacapps.com
+  * https://npackd.appspot.com (pc)
+  * https://chocolatey.org (pc)
+  * https://www.macports.org (kinda old, jank)
+  * https://www.apple.com/ios/app-store/ (durr)

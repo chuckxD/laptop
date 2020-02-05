@@ -233,3 +233,13 @@ We are [available for hire][hire].
 
 [community]: https://thoughtbot.com/community?utm_source=github
 [hire]: https://thoughtbot.com?utm_source=github
+
+
+TODO
+----
+
+* CLI interactive prompt on install
+  * something like commander.js, Thor, etc.
+  * allow y/n for picking stuff like shell and other 3rd party installs
+  * rollback option(s), dry runs, logging
+  * barebone macOS mindset

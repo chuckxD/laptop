@@ -243,3 +243,5 @@ TODO
   * allow y/n for picking stuff like shell and other 3rd party installs
   * rollback option(s), dry runs, logging
   * barebone macOS mindset
+
+* check into Ninite-esque setup for 3rd party app installs
